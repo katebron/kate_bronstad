@@ -4,10 +4,8 @@ body{
   font-size: 18px;
 }
 header{
-  width: 100%;
-  @media all and (min-width: 700px){
-    width: 100vw;
-  }
+  width: 100vw;
+  
     
      background-color: #ffe146; 
       margin: -1.2em auto 0 auto;
